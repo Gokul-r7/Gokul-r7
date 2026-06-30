@@ -1,18 +1,18 @@
-# Hi, I'm Gokul 👋
+# Hi, I'm Gokul 
 
-🎯 Aspiring Data Analyst transitioning from Operations & Finance background
+Aspiring Data Analyst transitioning from Operations & Finance background
 
-🔧 **Skills:** SQL · Power BI · Tableau · Advanced Excel · Python
+**Skills:** SQL · Power BI · Tableau · Advanced Excel · Python
 
-📚 Currently building data projects after completing Data Analyst training 
+Currently building data projects after completing Data Analyst training 
 at Besant Technologies
 
-💼 Background: MBA in Marketing & Operations | Ex-Standard Chartered Bank 
+Background: MBA in Marketing & Operations | Ex-Standard Chartered Bank 
 (Transaction Monitoring)
 
-📫 Reach me: gvvgokul@gmail.com | [LinkedIn](www.linkedin.com/in/gokul-r-081b181ab
+Reach me: gvvgokul@gmail.com | [LinkedIn]-www.linkedin.com/in/gokul-r-081b181ab
 
-)
+
 
 
 <!--
